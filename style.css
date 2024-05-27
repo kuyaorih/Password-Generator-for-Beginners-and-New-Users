@@ -1,0 +1,30 @@
+.container h1 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container h1 span {
+    
+    color: white;
+    border-bottom: 5px solid rgb(17, 232, 244);
+    padding-bottom: 7px;
+}
+
+
+body {
+    color: white;
+}
+
+.container button {
+    border: 0;
+    outline: 0;
+    background: white;
+    font-size: 12px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    padding: 10px 18px;
+    border-radius: 3px;
+    cursor: pointer;
+}
